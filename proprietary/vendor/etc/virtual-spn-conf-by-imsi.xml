@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <add-resource name="virtual-spn-conf-by-imsi" type="array"/>
+    <string-array name="virtual-spn-conf-by-imsi">
+        <item>2081=2081=20801xxx67xxxxx=Virgin</item>
+    </string-array>
+</resources>

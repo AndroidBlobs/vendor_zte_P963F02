@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <add-resource name="virtual-spn-conf-by-efgid1" type="array"/>
+    <string-array name="virtual-spn-conf-by-efgid1">
+        <item>23430=23430=40=Virgin</item>
+    </string-array>
+</resources>

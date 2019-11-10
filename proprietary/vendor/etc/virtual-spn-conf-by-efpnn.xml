@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <add-resource name="virtual-spn-conf-by-efpnn" type="array"/>
+    <string-array name="virtual-spn-conf-by-efpnn">
+        <item>2048=2048=Hi=Hi</item>
+        <item>2048=2048=Ortel NL=Ortel NL</item>
+        <item>2048=2048=Rabo Mobiel=Rabo Mobiel</item>
+        <item>20412=20412=Lebara=Lebara</item>
+        <item>20610=20610=LYCAMOBILE=LYCAMOBILE</item>
+        <item>20620=20620=Ortel BE=Ortel</item>
+        <item>2081=2081=C le mobile=NRJ Mobile</item>
+        <item>2081=2081=NRJ Mobile=NRJ Mobile</item>
+        <item>2081=2081=Free=ORANGE F</item>
+        <item>20810=20810=A MOBILE=A MOBILE</item>
+        <item>20810=20810=AfoneMobile=Afone</item>
+        <item>20810=20810=C le mobile=NRJ</item>
+        <item>20810=20810=La Poste Mobile=La Poste Mobile</item>
+        <item>20810=20810=NRJ Mobile=NRJ</item>
+        <item>20810=20810=Simplicime=Simplicime</item>
+        <item>2221=2221=tiscalimobile=Tiscali Mobile</item>
+        <item>2221=2221=COOP=Coop</item>
+        <item>2221=2221=Noverca=Noverca</item>
+        <item>2227=2227=Noverca=Noverca</item>
+        <item>22210=22210=BT Italia=BT Italia Mobile</item>
+        <item>22210=22210=ERG=ERG Mobile</item>
+        <item>22210=22210=ERG mobile=ERG Mobile</item>
+        <item>22210=22210=PosteMobile=Poste Mobile</item>
+        <item>22299=22299=FASTWEB=Fastweb</item>
+        <item>2341=2341=Vectone Mobile=Vectone</item>
+        <item>23410=23410=TESCO=TESCO</item>
+        <item>23415=23415=ASDA Mobile=ASDA Mobile</item>
+        <item>23415=23415=BT=BT Mobile</item>
+        <item>23415=23415=Lebara=Lebara</item>
+        <item>23420=23420=Lebara=Lebara</item>
+        <item>23426=23426=GT mobile=GT mobile</item>
+        <item>23426=23426=Lycamobile=Lycamobile</item>
+        <item>23430=23430=Virgin=Virgin</item>
+        <item>23431=23431=Virgin=Virgin</item>
+        <item>23432=23432=Virgin=Virgin</item>
+        <item>23433=23433=Now mobile=Now mobile</item>
+        <item>2621=2621=congstar=Telekom.de</item>
+        <item>2623=2623=blau.de=blau.de</item>
+        <item>2623=2623=AY YILDIZ=AY YILDIZ</item>
+        <item>2623=2623=simVOICE=simVOICE</item>
+        <item>2623=2623=ptt-mobile=ptt-mobile</item>
+        <item>4661=4661=7-Mobile=7-Mobile</item>
+        <item>4661=4661=統一超商=統一超商</item>
+        <item>46692=46692=家樂福電信=家樂福</item>
+        <item>2044=2044=中国电信=中国电信</item>
+        <item>4543=4543=中国电信=中国电信</item>
+        <item>4601=4601=京东通信=京东通信</item>
+        <item>4601=4601=阿里通信=阿里通信</item>
+        <item>2044=2044=8.ta Δ=8.ta</item>
+        <item>2141=2141=vodafone ES=vodafone ES</item>
+        <item>2141=2141=Eroski Movil=Eroski Movil</item>
+        <item>2141=2141=Lowi=Lowi</item>
+        <item>2141=2141=Hits=Hits</item>
+        <item>2143=2143=Orange=Orange</item>
+        <item>2143=2143=RACC=RACC</item>
+        <item>2143=2143=Happy=Happy</item>
+        <item>2143=2143=MASMovil=MASMovil</item>
+        <item>2143=2143=JAZZTEL=JAZZTEL</item>
+        <item>2143=2143=REPUBLICA MOVIL=REPUBLICA MOVIL</item>
+        <item>2143=2143=mobilR=mobilR</item>
+        <item>2143=2143=EUSKALTEL=EUSKALTEL</item>
+        <item>2143=2143=simyo=simyo</item>
+        <item>2143=2143=Carrefour=Carrefour</item>
+        <item>2143=2143=amena=amena</item>
+        <item>2143=2143=CABLE movil=CABLE movil</item>
+        <item>2143=2143=Ibercom=Ibercom</item>
+        <item>2143=2143=MovilDIA=MovilDIA</item>
+        <item>2143=2143=LCR=LCR</item>
+        <item>2143=2143=LlamaYA=LlamaYA</item>
+        <item>2143=2143=YOU Mobile=YOU Mobile</item>
+        <item>2143=2143=IOS=IOS</item>
+        <item>2143=2143=oceans=oceans</item>
+        <item>2144=2144=MASMovil=MASMovil</item>
+        <item>2144=2144=pepephone=pepephone</item>
+        <item>2145=2145=pepephone=pepephone</item>
+        <item>2146=2146=BT=BT</item>
+        <item>2147=2147=Movistar=Movistar</item>
+        <item>2147=2147=telecable=telecable</item>
+        <item>2147=2147=Tuenti=Tuenti</item>
+        <item>2147=2147=pepephone=pepephone</item>
+        <item>2148,2143=2143=EUSKALTEL=EUSKALTEL</item>
+        <item>2149,2143=2143=simyo=simyo</item>
+        <item>21416,2145=2147=telecable=telecable</item>
+        <item>2146,2141=2147=telecable=telecable</item>
+        <item>21417,2143=2143=mobilR=mobilR</item>
+        <item>2146=2141=Eroski Movil=Eroski Movil</item>
+        <item>2146,2145=2147=pepephone=pepephone</item>
+        <item>2146=2141=Hits=Hits</item>
+        <item>21425=2147=Lycamobile=Lycamobile</item>
+        <item>21422=2147=DIGI mobil=DIGI mobil</item>
+        <item>2146=2141=Lebara=Lebara</item>
+        <item>2146=2141=Lowi=Lowi</item>
+        <item>21432=2147=Tuenti=Tuenti</item>
+        <item>23212=23212=Ge org!=Ge org!</item>
+        <item>23212=23212=yesss!=yesss!</item>
+        <item>2327=2327=HoT=HoT</item>
+        <item>2327=2327=AllianzSIM=AllianzSIM</item>
+        <item>2321=2321=Red Bull Mobile=Red Bull Mobile</item>
+        <item>2321=2321=Red Bull MOBILE=Red Bull MOBILE</item>
+        <item>23211=23211=bob=bob</item>
+        <item>23210=23210=MediaMarkt=MediaMarkt</item>
+        <item>23210=23210=SATURNmobil=SATURNmobil</item>
+        <item>2327=2327=RAPID=RAPID</item>
+        <item>2327=2327=Allianz SIM=Allianz SIM</item>
+        <item>23210=23210=eety=eety</item>
+        <item>2327=2327=LiwestMobil=LiwestMobil</item>
+        <item>23218=23218=simpli=simpli</item>
+        <item>23213=23213=UPC AT=UPC AT</item>
+    </string-array>
+</resources>
